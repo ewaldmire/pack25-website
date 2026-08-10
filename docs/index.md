@@ -1,4 +1,4 @@
-# Welcome to Cub Scout Pack 25!
+# Mahomet Cub Scout Pack 25
 
 We're the Cub Scout pack serving Mahomet, Illinois. We meet regularly for
 fun, adventure, and learning — building character, citizenship, and
