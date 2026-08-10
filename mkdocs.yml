@@ -19,9 +19,8 @@ extra_css:
 # Explicit nav = predictable sidebar. Add a line here every time you add a page.
 nav:
   - Home: index.md
-  - About Us: about.md
   - Calendar: https://docs.google.com/document/d/1j6GQlqhVlV4vXsdT0PjQYu6UFg10sqST7merEAVw3II
-  - Forms: forms.md
+  - Forms & Flyers: forms.md
   - Leaders: leaders.md
 
 markdown_extensions:
