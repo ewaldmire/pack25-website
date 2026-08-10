@@ -2,7 +2,7 @@
 
 Cub Scout Pack 25 in Mahomet, Illinois was formed on November 30, 1947* and is chartered by the [Mahomet-Seymour Parent Teacher Organization](https://m-spto.org/).  We are a member of the [Prairielands Council](https://prairielandsbsa.org/) within [Scouting America](https://beascout.scouting.org/units/b4d51b2c-d46c-4c83-80b0-9cc7ed9334b0).
 
-We welcome all youth in grades K-5 and meet regularly for fun, adventure, and learning — building character, citizenship, and
+We welcome *ALL* youth in grades K-5 and meet regularly for fun, adventure, and learning — building character, citizenship, and
 confidence in youth.
 
 ## General Info
