@@ -1,0 +1,31 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python bytecode/cache
+__pycache__/
+*.pyc
+
+# MkDocs build output (this is what Actions generates and pushes to gh-pages;
+# it should never be committed to main)
+site/
+
+# MkDocs cache (used by some plugins, e.g. social cards)
+.cache/
+
+# Editor/IDE junk
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env files if you ever add API keys / secrets for a plugin
+.env
+
+# Archives
+pack25-website.tar.gz

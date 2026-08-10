@@ -1,0 +1,45 @@
+/* Pack 25 theming, loosely based on Scouting America's published brand
+   colors (Scouting America Brand Guidelines, Rev. May 2024). We are a
+   unit, not the national organization, so we use their color palette as
+   a respectful nod -- not their logo/emblem, and nothing here claims to
+   be an official BSA/Scouting America site. */
+
+:root,
+[data-md-color-scheme="default"] {
+  /* Cub Scouts Blue -- primary brand color */
+  --md-primary-fg-color:        #003F87;
+  --md-primary-fg-color--light: #3D6BA8;
+  --md-primary-fg-color--dark:  #002A5C;
+
+  /* Scouting America Red -- used for links/interactive accents.
+     (Cub Scout Gold/Yellow #FCD116 is too light for text contrast on
+     white, so it's reserved for decorative use only -- see below.) */
+  --md-accent-fg-color: #CE1126;
+}
+
+/* Cub Scout Gold, used sparingly as a decorative underline rather than
+   as text color, to keep the classic "Blue and Gold" pack identity
+   without accessibility problems. */
+.md-typeset h1 {
+  border-bottom: 3px solid #FCD116;
+  padding-bottom: 0.3rem;
+}
+
+/* Solid blue header bar -- the classic "Scouting" look, rather than the
+   default translucent/white header this theme ships with. */
+.md-header {
+  background-color: var(--md-primary-fg-color);
+  color: #fff;
+}
+
+/* Tabs bar (Home / About Us / Calendar / ...): a slightly darker blue so
+   it reads as a distinct band under the header, with a gold underline
+   on the active tab to match the Blue and Gold pack identity. */
+.md-tabs {
+  background-color: var(--md-primary-fg-color--dark);
+  color: #fff;
+}
+
+.md-tabs__item--active {
+  border-bottom-color: #FCD116 !important;
+}

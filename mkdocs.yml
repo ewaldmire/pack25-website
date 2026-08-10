@@ -1,0 +1,37 @@
+site_name: Cub Scout Pack 25 - Mahomet
+site_url: https://www.pack25mahomet.com
+site_description: Official website for Cub Scout Pack 25, Mahomet
+
+theme:
+  name: material
+  logo: assets/cub-scouts-logo.png
+  favicon: assets/favicon.png
+  palette:
+    - scheme: default
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+
+extra_css:
+  - stylesheets/custom.css
+
+# Explicit nav = predictable sidebar. Add a line here every time you add a page.
+nav:
+  - Home: index.md
+  - About Us: about.md
+  - Calendar: https://docs.google.com/document/d/1j6GQlqhVlV4vXsdT0PjQYu6UFg10sqST7merEAVw3II
+  - Forms: forms.md
+  - Leaders: leaders.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+
+extra:
+  generator: false
+
+extra_javascript:
+  - javascripts/external-links.js
