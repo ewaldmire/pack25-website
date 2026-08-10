@@ -10,7 +10,7 @@ confidence in youth.
 - **Pack (large group) Meeting** — Second Monday of every month, 6:30 PM @ Lincoln Trail Elementary
 - **Den (small group) Meetings** - Meet 1 Monday per month, see [Calendar](https://docs.google.com/document/d/1j6GQlqhVlV4vXsdT0PjQYu6UFg10sqST7merEAVw3II) for specific dates
 - Swimming Adventure - August
-- Fall Campout at [Camp Drake] (https://www.campdrake.com/) - great for beginners!
+- Fall Campout at [Camp Drake](https://www.campdrake.com/) - great for beginners!
 - **Popcorn Fundraiser** — September/October
 - Bicycle Rodeo
 - Pinewood Derby - February (Make and Race your own car!)
