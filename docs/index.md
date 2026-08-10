@@ -1,7 +1,8 @@
 # Mahomet Cub Scout Pack 25
 
-We're the Cub Scout pack serving Mahomet, Illinois. We meet regularly for
-fun, adventure, and learning — building character, citizenship, and
+Mahomet, Illinois Cub Scout Pack 25 was formed on November 30, 1947* and is chartered by the [Mahomet-Seymour Parent Teacher Organization](https://m-spto.org/).
+
+We welcome all youth in grades K-5 and meet regularly for fun, adventure, and learning — building character, citizenship, and
 confidence in youth.
 
 ## General Info
@@ -13,3 +14,5 @@ confidence in youth.
 ## New Families / Questions?
 
 Interested in joining (year-round!) or have questions? E-mail: mahometcubmaster@gmail.com 
+
+<small>*https://libsysdigi.library.illinois.edu/oca/Books2008-06/historyofmahomet00purn/historyofmahomet00purn.pdf (Page 53)</small>
