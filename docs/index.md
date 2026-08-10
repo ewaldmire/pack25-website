@@ -15,4 +15,4 @@ confidence in youth.
 
 Interested in joining (year-round!) or have questions? E-mail: mahometcubmaster@gmail.com 
 
-<small>*https://libsysdigi.library.illinois.edu/oca/Books2008-06/historyofmahomet00purn/historyofmahomet00purn.pdf (Page 53)</small>
+<small>*[History of Mahomet] (https://libsysdigi.library.illinois.edu/oca/Books2008-06/historyofmahomet00purn/historyofmahomet00purn.pdf) (Page 53)</small>
