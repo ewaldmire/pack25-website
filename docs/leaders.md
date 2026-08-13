@@ -6,7 +6,7 @@
 |-----------------|-----------------|
 | Cubmaster       | David Tsukuno   |
 | Committee Chair | John Pacey      |
-| Treasurer       | Micheal Gunderson |
+| Treasurer       | Michael Gunderson |
 | Popcorn Kernel  | Meredith Barnes |
 | Pinewood Derby Chair | Joe Barnes |
 | Assistant Cubmaster | Eddie Waldmire |
