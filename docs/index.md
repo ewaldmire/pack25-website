@@ -7,7 +7,7 @@ confidence in youth.
 
 ## Fall 2026 Registration
 
-We will be at the Middletown Prairie & Lincoln Trail "Open House" nights to provide info and answer questions.  If you can't make it, See our [General Info Flyer](forms/General_Info-Flyer_2026-2027.pdf) and join us for our "New Parent Info & Registration Night" on August 17, 2026 at 6:30 PM at the Lincoln Trail Elementary School Cafeteria. Come meet our leaders, ask questions, and see why Cub Scouts is the perfect fit for your child. Children do not need to attend, but are welcome to. If you are not able to attend, message us on [Facebook](https://www.facebook.com/MahometCubScoutPack25) or reach out via email below.
+See our [General Info Flyer](forms/General_Info-Flyer_2026-2027.pdf) and join us for our "New Parent Info & Registration Night" on August 17, 2026 at 6:30 PM at the Lincoln Trail Elementary School Cafeteria. Come meet our leaders, ask questions, and see why Cub Scouts is the perfect fit for your child. Children do not need to attend, but are welcome to. If you are not able to attend, message us on [Facebook](https://www.facebook.com/MahometCubScoutPack25) or reach out via email below.
 
 ## General Info & Regular Events
 
