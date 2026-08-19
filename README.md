@@ -18,7 +18,7 @@ no server-side code.
 ## Editing locally (for technical editors)
 
 ```bash
-python3 -m venv venv
+python3.11 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 zensical serve -o   # live preview at localhost:8000, rebuilds on save
