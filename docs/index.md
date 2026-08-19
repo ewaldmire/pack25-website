@@ -7,9 +7,9 @@ confidence in youth.
 
 ## Upcoming Events
 
-### Family Swim Adventure - Monday, August 24th 6-8pm
+### Swim Adventure - Monday, August 24th 6-8pm
 
-Bring your family (yes, parents and siblings can participate!) and join us at Sholem Aquatic Center to work on your Scout's Swimming Adventure!  **See more details on necessary health forms and RSVP here:** [Swim Adventure Details](swim-adventure-2026.md)
+Details and RSVP here: [Swim Adventure Details](swim-adventure-2026.md)
 
 
 To see the swim requirements for your Scout - see the links below:
